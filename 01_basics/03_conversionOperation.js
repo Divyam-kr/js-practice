@@ -16,3 +16,16 @@ console.log(valueInBoolean);
 //1 -> true; 0 -> false
 // "" -> false
 //"hi" -> true
+
+let naam = "123"
+console.log(typeof naam);
+
+let numName = Number(naam)
+console.log(typeof numName);
+console.log(naam);
+console.log(numName);
+
+let kaam = "Data Science"
+console.log(kaam);
+
+
