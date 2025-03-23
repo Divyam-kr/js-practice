@@ -28,4 +28,8 @@ console.log(numName);
 let kaam = "Data Science"
 console.log(kaam);
 
+let intern = "1 year"
+console.log(intern);
+
+
 
