@@ -31,5 +31,9 @@ console.log(kaam);
 let intern = "1 year"
 console.log(intern);
 
+let work = "Majduri"
+console.log(work);
+
+
 
 
