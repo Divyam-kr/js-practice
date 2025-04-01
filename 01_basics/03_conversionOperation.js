@@ -34,7 +34,7 @@ console.log(intern);
 let work = "Majduri"
 console.log(work);
 
-let project = "AIML"
+let project = "AIML and CS"
 console.log(project);
 
 
