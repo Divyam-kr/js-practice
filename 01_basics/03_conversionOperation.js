@@ -34,6 +34,10 @@ console.log(intern);
 let work = "Majduri"
 console.log(work);
 
+let project = "AIML"
+console.log(project);
+
+
 
 
 
