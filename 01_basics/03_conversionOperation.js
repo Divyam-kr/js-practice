@@ -37,6 +37,10 @@ console.log(work);
 let project = "AIML and CS and entc work"
 console.log(project);
 
+let question ="What can be the question?"
+// console.log(question);
+
+
 
 
 
