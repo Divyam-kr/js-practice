@@ -41,6 +41,7 @@ let question ="What is the main question?"
 console.log(question);
 let new_questions ="When is the match?"
 console.log(new_questions);
+let current_day = "Was weekend , did good stuffs"
 
 
 
